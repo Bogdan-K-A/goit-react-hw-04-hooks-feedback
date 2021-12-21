@@ -5,7 +5,7 @@ import s from './Statistics.module.css'
 export const Statistics = ({ good, neutral, bad, total, percent }) => {
   return (
     <>
-      {/* <h3>Statistics</h3> */}
+      
       <p className={s.statisticsText}>
         <span>Good:</span> <span>{good}</span>
       </p>
