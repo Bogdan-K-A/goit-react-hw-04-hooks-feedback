@@ -1,0 +1,22 @@
+.btnBox {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.btnBox button {
+  padding: 10px 30px;
+  border-radius: 8px;
+  border: none;
+
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.06em;
+
+  margin-right: 10px;
+}
+
+.btnBox button:hover {
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}

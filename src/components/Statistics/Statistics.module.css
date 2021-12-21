@@ -1,0 +1,11 @@
+.statisticsText {
+  display: flex;
+  justify-content: space-between;
+
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.06em;
+
+  margin-bottom: 10px;
+}
